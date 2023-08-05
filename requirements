@@ -1,0 +1,3 @@
+pytest==7.3.2
+webdriver-manager==3.8.6
+selene==2.0.0rc4
